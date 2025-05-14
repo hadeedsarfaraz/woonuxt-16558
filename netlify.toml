@@ -12,3 +12,4 @@
   for = "/*"
   [headers.values]
     X-From = "Netlify"
+    X-ProofOfNetlify = "True"
