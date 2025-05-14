@@ -11,5 +11,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-From = "Netlify"
+    Referer = "https://wordpress.hadeedsarfaraz.xyz"
     X-ProofOfNetlify = "True"
