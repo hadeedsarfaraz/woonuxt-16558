@@ -7,3 +7,8 @@
 
 [images]
   remote_images = ["https://secure.woonuxt.com/.*"]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-From = "Netlify"
